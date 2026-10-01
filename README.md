@@ -1,0 +1,11 @@
+# Parqueadero
+
+Proyecto de parqueadero en .NET.
+
+## Prueba de acceso
+
+Cada colaborador debe:
+
+1. Clonar el repositorio: `git clone <url>`
+2. Agregar su nombre en `Script.sql` (sección `INSERT INTO Colaboradores`)
+3. Hacer `git add .`, `git commit -m "Agrego mi nombre"` y `git push`
