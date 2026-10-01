@@ -30,4 +30,4 @@ Cada colaborador debe:
 R
 =======
 >>>>>>> 3a54a5a9b87f1c3d56b4ef6344199c486aae45e9
-Hola Buenas Noches, como andan como estan?
+Hola Buenas noches
