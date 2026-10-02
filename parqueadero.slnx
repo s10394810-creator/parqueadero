@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="consola_parqueadero/consola_parqueadero.csproj" />
+  <Project Path="lib_parqueadero/lib_parqueadero.csproj" />
+</Solution>
