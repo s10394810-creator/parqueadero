@@ -1,4 +1,3 @@
-/*
 create database db_parqueadero
 go
 use db_parqueadero
@@ -22,7 +21,7 @@ CREATE TABLE Zonas (
     Id_zona INT IDENTITY(1,1) PRIMARY KEY,
     Nombre VARCHAR(100) NULL,
     Descripcion VARCHAR(255) NULL,
-    Tipo_zona VARCHAR(100) NULL,
+    Tipo_Zona VARCHAR(100) NULL,
     Capacidad INT NOT NULL         
 );
 CREATE TABLE Espacios (
@@ -377,6 +376,3 @@ VALUES
     ( 'Cliente Frecuente', 'Mas de 20 visitas al mes', 20, '2026-12-31'),
     ( 'Descuento Apertura', 'Primer mes de operacion', 25, '2026-09-30'),
     ( 'Descuento Plan Anual', 'Al contratar plan anual', 30, '2026-12-31');
-/*
-
-    
