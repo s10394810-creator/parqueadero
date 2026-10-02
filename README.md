@@ -1,15 +1,16 @@
 # Parqueadero
 
-Proyecto de parqueadero en .NET.
+Proyecto de parqueadero en .NET 10 con Entity Framework Core y SQL Server.
 
-## Prueba de acceso
+## Estructura
 
-Cada colaborador debe:
+- `lib_parqueadero` – entidades, conexion (EF Core) e interfaz
+- `consola_parqueadero` – aplicacion de consola
+- `tests_parqueadero` – pruebas unitarias (MSTest)
+- `db_parqueadero.sql` – script de la base de datos
 
-1. Clonar el repositorio: `git clone <url>`
-2. Agregar su nombre en `Script.sql` (sección `INSERT INTO Colaboradores`)
-3. Hacer `git add .`, `git commit -m "Agrego mi nombre"` y `git push`
+## Integrantes
 
-HOLA
-
-Hola Buenas Noches
+- Mateo (s10394810-creator)
+- Santiago Giraldo (Sgiraldo683)
+- Henry Duarte (henryduartefunes)
