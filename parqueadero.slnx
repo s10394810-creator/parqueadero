@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="consola_parqueadero/consola_parqueadero.csproj" />
   <Project Path="lib_parqueadero/lib_parqueadero.csproj" />
+  <Project Path="tests_parqueadero/tests_parqueadero.csproj" />
 </Solution>
