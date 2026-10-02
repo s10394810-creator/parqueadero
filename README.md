@@ -11,6 +11,6 @@ Proyecto de parqueadero en .NET 10 con Entity Framework Core y SQL Server.
 
 ## Integrantes
 
-- Mateo (s10394810-creator)
+- Sebastian (s10394810-creator)
 - Santiago Giraldo (Sgiraldo683)
 - Henry Duarte (henryduartefunes)
