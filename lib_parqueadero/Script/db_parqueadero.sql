@@ -8,7 +8,7 @@ CREATE TABLE TipoVehiculos (
     Id_tipo INT IDENTITY(1,1) PRIMARY KEY,
     Nombre VARCHAR(100) NULL,
     Descripcion VARCHAR(255) NULL,
-    Tarifa_Base DECIMAL(10,2) NOT NULL,
+    Tarifa_base DECIMAL(10,2) NOT NULL,
     Capacidad INT NOT NULL
 );
 CREATE TABLE Niveles (
@@ -22,7 +22,7 @@ CREATE TABLE Zonas (
     Id_zona INT IDENTITY(1,1) PRIMARY KEY,
     Nombre VARCHAR(100) NULL,
     Descripcion VARCHAR(255) NULL,
-    Tipo_zona VARCHAR(100) NULL,
+    Tipo_Zona VARCHAR(100) NULL,
     Capacidad INT NOT NULL         
 );
 CREATE TABLE Espacios (
